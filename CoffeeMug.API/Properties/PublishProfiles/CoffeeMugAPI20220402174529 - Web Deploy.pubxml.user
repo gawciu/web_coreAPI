@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+Ten plik jest wykorzystywany przez proces publikowania/pakowania projektu internetowego. Możesz dostosować zachowanie tego procesu
+ poprzez edycję tego pliku MSBuild. Aby dowiedzieć się więcej o tym działaniu, odwiedź stronę https://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project>
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <EncryptedPassword>AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAbJFawdgn7kWoY25wYwrMsAAAAAACAAAAAAAQZgAAAAEAACAAAACrajHhln4V0r6lLKX2zvd0cOP7RGfc3lqE3LQQmKI/FwAAAAAOgAAAAAIAACAAAACu6JL/AzxnPMCCZpU0/Ntd298RLWw6+wFuHBHt/vmzwoAAAAA31/EerHTem1DbFCPXhpYfnF3DY6Fg0k3eXBN/b1/tTWjAAu0DxquCXM6N7IDpq9qQ3dEAFdrZAaSiRgiwg7c6HmziOi9HthwxMWOmnaA0CgBVPMbQmMTULNykQyqg1XSuFG9aIcnT/t9yN1ymvbV9+r9Xke83QM6xAMZHvYKzEEAAAAAWfZCYv2r+UDxpLgulcmZlz553JGBte0/n7W2TIqu8CzzxkSeRogW1MZfNtiovhdQc8+rAVmiQSJ/6ZFvkVqSZ</EncryptedPassword>
+    <History>True|2022-04-02T19:51:41.6338318Z;True|2022-04-02T19:40:04.7066890+02:00;True|2022-04-02T19:19:28.0690180+02:00;False|2022-04-02T19:17:34.5953885+02:00;False|2022-04-02T18:02:10.2807373+02:00;False|2022-04-02T18:01:22.0990322+02:00;False|2022-04-02T17:59:52.8059157+02:00;False|2022-04-02T17:55:15.8479281+02:00;False|2022-04-02T17:51:24.6693879+02:00;</History>
+  </PropertyGroup>
+  <ItemGroup>
+    <EFMigrations Include="CoffeeMug.Data.ModelDbContext.ProductDbContext">
+      <Value>Data Source=tcp:coffeemugdb.database.windows.net,1433%3bInitial Catalog=CoffeeMug.API_db%3bUser Id=rafal%40coffeemugdb%3bPassword=paingain91%2a</Value>
+    </EFMigrations>
+  </ItemGroup>
+</Project>

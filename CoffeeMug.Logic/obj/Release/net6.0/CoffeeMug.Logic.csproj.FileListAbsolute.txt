@@ -1,0 +1,17 @@
+C:\Users\gawro\Downloads\webCore_api\CoffeeMug.Logic\bin\Release\net6.0\CoffeeMug.Logic.deps.json
+C:\Users\gawro\Downloads\webCore_api\CoffeeMug.Logic\bin\Release\net6.0\CoffeeMug.Logic.dll
+C:\Users\gawro\Downloads\webCore_api\CoffeeMug.Logic\bin\Release\net6.0\CoffeeMug.Logic.pdb
+C:\Users\gawro\Downloads\webCore_api\CoffeeMug.Logic\bin\Release\net6.0\CoffeeMug.Common.dll
+C:\Users\gawro\Downloads\webCore_api\CoffeeMug.Logic\bin\Release\net6.0\CoffeeMug.Data.dll
+C:\Users\gawro\Downloads\webCore_api\CoffeeMug.Logic\bin\Release\net6.0\CoffeeMug.Common.pdb
+C:\Users\gawro\Downloads\webCore_api\CoffeeMug.Logic\bin\Release\net6.0\CoffeeMug.Data.pdb
+C:\Users\gawro\Downloads\webCore_api\CoffeeMug.Logic\obj\Release\net6.0\CoffeeMug.Logic.csproj.AssemblyReference.cache
+C:\Users\gawro\Downloads\webCore_api\CoffeeMug.Logic\obj\Release\net6.0\CoffeeMug.Logic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gawro\Downloads\webCore_api\CoffeeMug.Logic\obj\Release\net6.0\CoffeeMug.Logic.AssemblyInfoInputs.cache
+C:\Users\gawro\Downloads\webCore_api\CoffeeMug.Logic\obj\Release\net6.0\CoffeeMug.Logic.AssemblyInfo.cs
+C:\Users\gawro\Downloads\webCore_api\CoffeeMug.Logic\obj\Release\net6.0\CoffeeMug.Logic.csproj.CoreCompileInputs.cache
+C:\Users\gawro\Downloads\webCore_api\CoffeeMug.Logic\obj\Release\net6.0\CoffeeMug.Logic.csproj.CopyComplete
+C:\Users\gawro\Downloads\webCore_api\CoffeeMug.Logic\obj\Release\net6.0\CoffeeMug.Logic.dll
+C:\Users\gawro\Downloads\webCore_api\CoffeeMug.Logic\obj\Release\net6.0\refint\CoffeeMug.Logic.dll
+C:\Users\gawro\Downloads\webCore_api\CoffeeMug.Logic\obj\Release\net6.0\CoffeeMug.Logic.pdb
+C:\Users\gawro\Downloads\webCore_api\CoffeeMug.Logic\obj\Release\net6.0\ref\CoffeeMug.Logic.dll
