@@ -8,7 +8,6 @@ using CoffeeMug.Data.Repository;
 using CoffeeMug.Logic.ILogic;
 using CoffeeMug.Logic.Logic;
 using Microsoft.EntityFrameworkCore;
-using Microsoft.OpenApi.Models;
 
 var builder = WebApplication.CreateBuilder(args);
 
